@@ -1,0 +1,5 @@
+.env
+usa/
+__pycache__/
+*.pyc
+.vscode/
