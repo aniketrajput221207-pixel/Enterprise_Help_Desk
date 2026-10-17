@@ -1,6 +1,6 @@
 import os
 import uuid
-
+import mysql.connector
 import mysql.connector
 from dotenv import load_dotenv
 
